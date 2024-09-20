@@ -11,7 +11,7 @@ Machine learning Model stealing testing pipeline
 
 # Round 1
 - currently this is under construction for a CL watermarking paper
-- this will follow the structure of a client-server
+- this will follow the structure of a client-server (But not actually online)
 - server will go in rounds
 - all clients will connect, and one at a time querry the victim with their image
 - server will respond to each client in order (Maybe multithread and queue)
